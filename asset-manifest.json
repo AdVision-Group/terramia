@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/terramia/static/css/main.9fcc561c.chunk.css",
+    "main.js": "/terramia/static/js/main.447d2801.chunk.js",
+    "main.js.map": "/terramia/static/js/main.447d2801.chunk.js.map",
+    "runtime-main.js": "/terramia/static/js/runtime-main.996e5ef2.js",
+    "runtime-main.js.map": "/terramia/static/js/runtime-main.996e5ef2.js.map",
+    "static/js/2.de39bd6d.chunk.js": "/terramia/static/js/2.de39bd6d.chunk.js",
+    "static/js/2.de39bd6d.chunk.js.map": "/terramia/static/js/2.de39bd6d.chunk.js.map",
+    "index.html": "/terramia/index.html",
+    "precache-manifest.489eea3f6fcd7b7a773b35b18f2698c5.js": "/terramia/precache-manifest.489eea3f6fcd7b7a773b35b18f2698c5.js",
+    "service-worker.js": "/terramia/service-worker.js",
+    "static/css/main.9fcc561c.chunk.css.map": "/terramia/static/css/main.9fcc561c.chunk.css.map",
+    "static/js/2.de39bd6d.chunk.js.LICENSE.txt": "/terramia/static/js/2.de39bd6d.chunk.js.LICENSE.txt",
+    "static/media/family.png": "/terramia/static/media/family.502dba17.png",
+    "static/media/home.css": "/terramia/static/media/item-4.adc6e46e.png",
+    "static/media/logo.png": "/terramia/static/media/logo.d4036431.png",
+    "static/media/oil-1.png": "/terramia/static/media/oil-1.e887766e.png",
+    "static/media/oil-2.png": "/terramia/static/media/oil-2.59098c90.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.996e5ef2.js",
+    "static/js/2.de39bd6d.chunk.js",
+    "static/css/main.9fcc561c.chunk.css",
+    "static/js/main.447d2801.chunk.js"
+  ]
+}
