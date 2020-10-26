@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/terramia/static/css/main.0a7a4726.chunk.css",
-    "main.js": "/terramia/static/js/main.518d474c.chunk.js",
-    "main.js.map": "/terramia/static/js/main.518d474c.chunk.js.map",
+    "main.css": "/terramia/static/css/main.a35caab9.chunk.css",
+    "main.js": "/terramia/static/js/main.71791de6.chunk.js",
+    "main.js.map": "/terramia/static/js/main.71791de6.chunk.js.map",
     "runtime-main.js": "/terramia/static/js/runtime-main.996e5ef2.js",
     "runtime-main.js.map": "/terramia/static/js/runtime-main.996e5ef2.js.map",
     "static/js/2.de39bd6d.chunk.js": "/terramia/static/js/2.de39bd6d.chunk.js",
     "static/js/2.de39bd6d.chunk.js.map": "/terramia/static/js/2.de39bd6d.chunk.js.map",
     "index.html": "/terramia/index.html",
-    "precache-manifest.2a88e2e0f201b02adf00f2c0c85a90b9.js": "/terramia/precache-manifest.2a88e2e0f201b02adf00f2c0c85a90b9.js",
+    "precache-manifest.42683c93c49918582833a28c64604193.js": "/terramia/precache-manifest.42683c93c49918582833a28c64604193.js",
     "service-worker.js": "/terramia/service-worker.js",
-    "static/css/main.0a7a4726.chunk.css.map": "/terramia/static/css/main.0a7a4726.chunk.css.map",
+    "static/css/main.a35caab9.chunk.css.map": "/terramia/static/css/main.a35caab9.chunk.css.map",
     "static/js/2.de39bd6d.chunk.js.LICENSE.txt": "/terramia/static/js/2.de39bd6d.chunk.js.LICENSE.txt",
     "static/media/family.png": "/terramia/static/media/family.502dba17.png",
     "static/media/home.css": "/terramia/static/media/item-4.adc6e46e.png",
-    "static/media/logo.png": "/terramia/static/media/logo.d4036431.png",
+    "static/media/logo.png": "/terramia/static/media/logo.758c019e.png",
     "static/media/oil-1.png": "/terramia/static/media/oil-1.e887766e.png",
     "static/media/oil-2.png": "/terramia/static/media/oil-2.59098c90.png"
   },
   "entrypoints": [
     "static/js/runtime-main.996e5ef2.js",
     "static/js/2.de39bd6d.chunk.js",
-    "static/css/main.0a7a4726.chunk.css",
-    "static/js/main.518d474c.chunk.js"
+    "static/css/main.a35caab9.chunk.css",
+    "static/js/main.71791de6.chunk.js"
   ]
 }
