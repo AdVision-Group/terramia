@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/terramia/static/css/main.b9615ca1.chunk.css",
-    "main.js": "/terramia/static/js/main.d2658fd2.chunk.js",
-    "main.js.map": "/terramia/static/js/main.d2658fd2.chunk.js.map",
+    "main.css": "/terramia/static/css/main.974ddd0d.chunk.css",
+    "main.js": "/terramia/static/js/main.25a833a1.chunk.js",
+    "main.js.map": "/terramia/static/js/main.25a833a1.chunk.js.map",
     "runtime-main.js": "/terramia/static/js/runtime-main.996e5ef2.js",
     "runtime-main.js.map": "/terramia/static/js/runtime-main.996e5ef2.js.map",
-    "static/js/2.3a9df8a1.chunk.js": "/terramia/static/js/2.3a9df8a1.chunk.js",
-    "static/js/2.3a9df8a1.chunk.js.map": "/terramia/static/js/2.3a9df8a1.chunk.js.map",
+    "static/js/2.49ecce6d.chunk.js": "/terramia/static/js/2.49ecce6d.chunk.js",
+    "static/js/2.49ecce6d.chunk.js.map": "/terramia/static/js/2.49ecce6d.chunk.js.map",
     "index.html": "/terramia/index.html",
-    "precache-manifest.0206a9a438be7050a31c0b9f24cade65.js": "/terramia/precache-manifest.0206a9a438be7050a31c0b9f24cade65.js",
+    "precache-manifest.06ebd6ea4b950296bca6faa237d4fa6f.js": "/terramia/precache-manifest.06ebd6ea4b950296bca6faa237d4fa6f.js",
     "service-worker.js": "/terramia/service-worker.js",
-    "static/css/main.b9615ca1.chunk.css.map": "/terramia/static/css/main.b9615ca1.chunk.css.map",
-    "static/js/2.3a9df8a1.chunk.js.LICENSE.txt": "/terramia/static/js/2.3a9df8a1.chunk.js.LICENSE.txt",
+    "static/css/main.974ddd0d.chunk.css.map": "/terramia/static/css/main.974ddd0d.chunk.css.map",
+    "static/js/2.49ecce6d.chunk.js.LICENSE.txt": "/terramia/static/js/2.49ecce6d.chunk.js.LICENSE.txt",
     "static/media/family.png": "/terramia/static/media/family.502dba17.png",
     "static/media/home.css": "/terramia/static/media/item-4.adc6e46e.png",
     "static/media/logo.png": "/terramia/static/media/logo.758c019e.png",
@@ -21,8 +21,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.996e5ef2.js",
-    "static/js/2.3a9df8a1.chunk.js",
-    "static/css/main.b9615ca1.chunk.css",
-    "static/js/main.d2658fd2.chunk.js"
+    "static/js/2.49ecce6d.chunk.js",
+    "static/css/main.974ddd0d.chunk.css",
+    "static/js/main.25a833a1.chunk.js"
   ]
 }
