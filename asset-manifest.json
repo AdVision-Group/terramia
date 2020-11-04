@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/terramia/static/css/main.974ddd0d.chunk.css",
-    "main.js": "/terramia/static/js/main.25a833a1.chunk.js",
-    "main.js.map": "/terramia/static/js/main.25a833a1.chunk.js.map",
+    "main.css": "/terramia/static/css/main.84bac040.chunk.css",
+    "main.js": "/terramia/static/js/main.78913cff.chunk.js",
+    "main.js.map": "/terramia/static/js/main.78913cff.chunk.js.map",
     "runtime-main.js": "/terramia/static/js/runtime-main.996e5ef2.js",
     "runtime-main.js.map": "/terramia/static/js/runtime-main.996e5ef2.js.map",
-    "static/js/2.49ecce6d.chunk.js": "/terramia/static/js/2.49ecce6d.chunk.js",
-    "static/js/2.49ecce6d.chunk.js.map": "/terramia/static/js/2.49ecce6d.chunk.js.map",
+    "static/js/2.d80cea88.chunk.js": "/terramia/static/js/2.d80cea88.chunk.js",
+    "static/js/2.d80cea88.chunk.js.map": "/terramia/static/js/2.d80cea88.chunk.js.map",
     "index.html": "/terramia/index.html",
-    "precache-manifest.06ebd6ea4b950296bca6faa237d4fa6f.js": "/terramia/precache-manifest.06ebd6ea4b950296bca6faa237d4fa6f.js",
+    "precache-manifest.9f952e59ed3d9b40d51e8de417ed8fef.js": "/terramia/precache-manifest.9f952e59ed3d9b40d51e8de417ed8fef.js",
     "service-worker.js": "/terramia/service-worker.js",
-    "static/css/main.974ddd0d.chunk.css.map": "/terramia/static/css/main.974ddd0d.chunk.css.map",
-    "static/js/2.49ecce6d.chunk.js.LICENSE.txt": "/terramia/static/js/2.49ecce6d.chunk.js.LICENSE.txt",
+    "static/css/main.84bac040.chunk.css.map": "/terramia/static/css/main.84bac040.chunk.css.map",
+    "static/js/2.d80cea88.chunk.js.LICENSE.txt": "/terramia/static/js/2.d80cea88.chunk.js.LICENSE.txt",
     "static/media/family.png": "/terramia/static/media/family.502dba17.png",
     "static/media/home.css": "/terramia/static/media/item-4.adc6e46e.png",
+    "static/media/about.css": "/terramia/static/media/item-1.9eb91cdb.png",
     "static/media/logo.png": "/terramia/static/media/logo.758c019e.png",
     "static/media/oil-1.png": "/terramia/static/media/oil-1.e887766e.png",
     "static/media/oil-2.png": "/terramia/static/media/oil-2.59098c90.png",
@@ -21,8 +22,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.996e5ef2.js",
-    "static/js/2.49ecce6d.chunk.js",
-    "static/css/main.974ddd0d.chunk.css",
-    "static/js/main.25a833a1.chunk.js"
+    "static/js/2.d80cea88.chunk.js",
+    "static/css/main.84bac040.chunk.css",
+    "static/js/main.78913cff.chunk.js"
   ]
 }
