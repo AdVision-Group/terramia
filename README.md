@@ -11,6 +11,10 @@
   - News
   - Blog
   - About us
+  
+### Mobile Menu
+- hamburger animated menu button
+- mobile menu widget
 
 ### Profile
 - forgot password
