@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/terramia/precache-manifest.0882bf92688e4e26f1e5fe19b8ce24a1.js"
+  "/terramia/precache-manifest.eadba8223e4f3f05848df92d01474efa.js"
 );
 
 self.addEventListener('message', (event) => {
