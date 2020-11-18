@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/terramia/static/css/main.db2e438b.chunk.css",
-    "main.js": "/terramia/static/js/main.4a51caed.chunk.js",
-    "main.js.map": "/terramia/static/js/main.4a51caed.chunk.js.map",
+    "main.css": "/terramia/static/css/main.7a1ed3a4.chunk.css",
+    "main.js": "/terramia/static/js/main.f6680fd5.chunk.js",
+    "main.js.map": "/terramia/static/js/main.f6680fd5.chunk.js.map",
     "runtime-main.js": "/terramia/static/js/runtime-main.996e5ef2.js",
     "runtime-main.js.map": "/terramia/static/js/runtime-main.996e5ef2.js.map",
     "static/js/2.750ad3c7.chunk.js": "/terramia/static/js/2.750ad3c7.chunk.js",
     "static/js/2.750ad3c7.chunk.js.map": "/terramia/static/js/2.750ad3c7.chunk.js.map",
     "index.html": "/terramia/index.html",
-    "precache-manifest.46858c481ce991f12890f9decf23fab0.js": "/terramia/precache-manifest.46858c481ce991f12890f9decf23fab0.js",
+    "precache-manifest.ab334bc16fba1eee8197254353b47af2.js": "/terramia/precache-manifest.ab334bc16fba1eee8197254353b47af2.js",
     "service-worker.js": "/terramia/service-worker.js",
-    "static/css/main.db2e438b.chunk.css.map": "/terramia/static/css/main.db2e438b.chunk.css.map",
+    "static/css/main.7a1ed3a4.chunk.css.map": "/terramia/static/css/main.7a1ed3a4.chunk.css.map",
     "static/js/2.750ad3c7.chunk.js.LICENSE.txt": "/terramia/static/js/2.750ad3c7.chunk.js.LICENSE.txt",
     "static/media/about-1.png": "/terramia/static/media/about-1.ef11e722.png",
     "static/media/about-2.png": "/terramia/static/media/about-2.b0a150bd.png",
@@ -29,7 +29,7 @@
   "entrypoints": [
     "static/js/runtime-main.996e5ef2.js",
     "static/js/2.750ad3c7.chunk.js",
-    "static/css/main.db2e438b.chunk.css",
-    "static/js/main.4a51caed.chunk.js"
+    "static/css/main.7a1ed3a4.chunk.css",
+    "static/js/main.f6680fd5.chunk.js"
   ]
 }
