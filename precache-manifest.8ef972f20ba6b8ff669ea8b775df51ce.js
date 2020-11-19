@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "31f20e67b770d9c7ca18be030a2090af",
+    "revision": "8e243964ae665859bc26a3bf72abd118",
     "url": "/terramia/index.html"
   },
   {
-    "revision": "efd23c7786380ae4f066",
-    "url": "/terramia/static/css/main.7a1ed3a4.chunk.css"
+    "revision": "2fd84e12f99be4675555",
+    "url": "/terramia/static/css/main.346e2a27.chunk.css"
   },
   {
-    "revision": "b0b6d1819852b945903a",
-    "url": "/terramia/static/js/2.750ad3c7.chunk.js"
+    "revision": "e0a73ac122168e6c08e9",
+    "url": "/terramia/static/js/2.5ca87bd6.chunk.js"
   },
   {
     "revision": "7eb8d4d7445e3b2e10128cd6dc60d299",
-    "url": "/terramia/static/js/2.750ad3c7.chunk.js.LICENSE.txt"
+    "url": "/terramia/static/js/2.5ca87bd6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "efd23c7786380ae4f066",
-    "url": "/terramia/static/js/main.f6680fd5.chunk.js"
+    "revision": "2fd84e12f99be4675555",
+    "url": "/terramia/static/js/main.68a2767b.chunk.js"
   },
   {
     "revision": "d149b4c742d82dfc7e55",
@@ -48,6 +48,58 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/terramia/static/media/home-image.fe10d3b8.jpg"
   },
   {
+    "revision": "78057d3890e8a64091efafc8ba7279d9",
+    "url": "/terramia/static/media/icon-1.78057d38.png"
+  },
+  {
+    "revision": "347980ea5b425b39390f1b32df755ef4",
+    "url": "/terramia/static/media/icon-2.347980ea.png"
+  },
+  {
+    "revision": "76de64040f89e1455c6c9a56300bdbb4",
+    "url": "/terramia/static/media/icon-3.76de6404.png"
+  },
+  {
+    "revision": "e99a5a098713b2a396060fa3b643d426",
+    "url": "/terramia/static/media/icon-kora.e99a5a09.jpg"
+  },
+  {
+    "revision": "d63c8a0ecc98185ca26da9536b6b1f95",
+    "url": "/terramia/static/media/icon-korene.d63c8a0e.jpeg"
+  },
+  {
+    "revision": "4607e31b8597a46405801ac04216e301",
+    "url": "/terramia/static/media/image-about.4607e31b.jpeg"
+  },
+  {
+    "revision": "2323304e715e383a607055f54e7de26f",
+    "url": "/terramia/static/media/image-aromatherapy.2323304e.jpeg"
+  },
+  {
+    "revision": "2412d0b87b00171f76bfcdb2ed60d2ac",
+    "url": "/terramia/static/media/image-blog.2412d0b8.jpeg"
+  },
+  {
+    "revision": "f0dca10976a806dc712fe3b0558f75fd",
+    "url": "/terramia/static/media/image-business.f0dca109.jpeg"
+  },
+  {
+    "revision": "fc3b3fb22f2639bc4c0106afc31f36b8",
+    "url": "/terramia/static/media/image-contact.fc3b3fb2.jpeg"
+  },
+  {
+    "revision": "fd5f6210a1156ea9e9a75a82870b9f31",
+    "url": "/terramia/static/media/image-lavender.fd5f6210.jpeg"
+  },
+  {
+    "revision": "0ec93b22a9bde33b17ac2de5268dc5b0",
+    "url": "/terramia/static/media/image-lemon.0ec93b22.jpeg"
+  },
+  {
+    "revision": "bcaeab340a355b232b71a8f2b0031068",
+    "url": "/terramia/static/media/image-peppermint.bcaeab34.jpeg"
+  },
+  {
     "revision": "9eb91cdb080fc03fa44392133958a437",
     "url": "/terramia/static/media/item-1.9eb91cdb.png"
   },
@@ -74,10 +126,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "e887766eb6b5a9d16e655701ab9adb85",
     "url": "/terramia/static/media/oil-1.e887766e.png"
-  },
-  {
-    "revision": "59098c9039e12ddbdb84b4f9d16adcc0",
-    "url": "/terramia/static/media/oil-2.59098c90.png"
   },
   {
     "revision": "629dd66c5c26c3361d171eee6dc0aab8",
