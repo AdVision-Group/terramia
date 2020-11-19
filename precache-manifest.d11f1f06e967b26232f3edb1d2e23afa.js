@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "26917b3bf028e5ede20ec774a8245d50",
+    "revision": "bf83c45baedb2a9f3280396ed778af59",
     "url": "/terramia/index.html"
   },
   {
-    "revision": "13ab2d72e0d242b13e90",
+    "revision": "fff2f49f59b11900918f",
     "url": "/terramia/static/css/main.346e2a27.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/terramia/static/js/2.5ca87bd6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "13ab2d72e0d242b13e90",
-    "url": "/terramia/static/js/main.72fa74c4.chunk.js"
+    "revision": "fff2f49f59b11900918f",
+    "url": "/terramia/static/js/main.c3e775b3.chunk.js"
   },
   {
     "revision": "d149b4c742d82dfc7e55",
@@ -116,8 +116,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/terramia/static/media/item-4.adc6e46e.png"
   },
   {
-    "revision": "758c019e21d22daf953e9963a533e3cb",
-    "url": "/terramia/static/media/logo.758c019e.png"
+    "revision": "a0c979fc81e3456afd0324423c85c937",
+    "url": "/terramia/static/media/logo.a0c979fc.png"
   },
   {
     "revision": "da724cd2d0cfd6fd3349e47ea410c1b8",
