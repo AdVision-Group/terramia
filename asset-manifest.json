@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/terramia/static/css/main.346e2a27.chunk.css",
-    "main.js": "/terramia/static/js/main.a42e1d3f.chunk.js",
-    "main.js.map": "/terramia/static/js/main.a42e1d3f.chunk.js.map",
+    "main.css": "/terramia/static/css/main.3298a7f7.chunk.css",
+    "main.js": "/terramia/static/js/main.a0ca94a6.chunk.js",
+    "main.js.map": "/terramia/static/js/main.a0ca94a6.chunk.js.map",
     "runtime-main.js": "/terramia/static/js/runtime-main.996e5ef2.js",
     "runtime-main.js.map": "/terramia/static/js/runtime-main.996e5ef2.js.map",
-    "static/js/2.5ca87bd6.chunk.js": "/terramia/static/js/2.5ca87bd6.chunk.js",
-    "static/js/2.5ca87bd6.chunk.js.map": "/terramia/static/js/2.5ca87bd6.chunk.js.map",
+    "static/js/2.1034ad57.chunk.js": "/terramia/static/js/2.1034ad57.chunk.js",
+    "static/js/2.1034ad57.chunk.js.map": "/terramia/static/js/2.1034ad57.chunk.js.map",
     "index.html": "/terramia/index.html",
-    "precache-manifest.35e1979e73f798f954aa271887ac9253.js": "/terramia/precache-manifest.35e1979e73f798f954aa271887ac9253.js",
+    "precache-manifest.80c33bc36de2f6f142dc529ec52212b8.js": "/terramia/precache-manifest.80c33bc36de2f6f142dc529ec52212b8.js",
     "service-worker.js": "/terramia/service-worker.js",
-    "static/css/main.346e2a27.chunk.css.map": "/terramia/static/css/main.346e2a27.chunk.css.map",
-    "static/js/2.5ca87bd6.chunk.js.LICENSE.txt": "/terramia/static/js/2.5ca87bd6.chunk.js.LICENSE.txt",
+    "static/css/main.3298a7f7.chunk.css.map": "/terramia/static/css/main.3298a7f7.chunk.css.map",
+    "static/js/2.1034ad57.chunk.js.LICENSE.txt": "/terramia/static/js/2.1034ad57.chunk.js.LICENSE.txt",
     "static/media/about-1.png": "/terramia/static/media/about-1.ef11e722.png",
     "static/media/about-2.png": "/terramia/static/media/about-2.b0a150bd.png",
     "static/media/about-3.png": "/terramia/static/media/about-3.e0a53cc8.png",
@@ -36,8 +36,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.996e5ef2.js",
-    "static/js/2.5ca87bd6.chunk.js",
-    "static/css/main.346e2a27.chunk.css",
-    "static/js/main.a42e1d3f.chunk.js"
+    "static/js/2.1034ad57.chunk.js",
+    "static/css/main.3298a7f7.chunk.css",
+    "static/js/main.a0ca94a6.chunk.js"
   ]
 }
