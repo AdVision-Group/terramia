@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ba4ee0835a949f7451559d3627ecea4f",
+    "revision": "52778bff1ec8412818811d4a463db54a",
     "url": "/terramia/index.html"
   },
   {
-    "revision": "7cc924ad7fe993025f00",
-    "url": "/terramia/static/css/main.16309aa3.chunk.css"
+    "revision": "13e3b66de149bcb8a56b",
+    "url": "/terramia/static/css/main.a05f47fc.chunk.css"
   },
   {
-    "revision": "38b0e7a7b91ac51a1be6",
-    "url": "/terramia/static/js/2.8498acd5.chunk.js"
+    "revision": "9cda7f35e29b46bb91ac",
+    "url": "/terramia/static/js/2.0106a9fa.chunk.js"
   },
   {
     "revision": "7eb8d4d7445e3b2e10128cd6dc60d299",
-    "url": "/terramia/static/js/2.8498acd5.chunk.js.LICENSE.txt"
+    "url": "/terramia/static/js/2.0106a9fa.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7cc924ad7fe993025f00",
-    "url": "/terramia/static/js/main.3d5293fe.chunk.js"
+    "revision": "13e3b66de149bcb8a56b",
+    "url": "/terramia/static/js/main.d9522cba.chunk.js"
   },
   {
     "revision": "d149b4c742d82dfc7e55",
@@ -60,28 +60,36 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/terramia/static/media/home-image.fe10d3b8.jpg"
   },
   {
-    "revision": "78057d3890e8a64091efafc8ba7279d9",
-    "url": "/terramia/static/media/icon-1.78057d38.png"
+    "revision": "730ad1379d8e7703a61931a678292e4e",
+    "url": "/terramia/static/media/icon-1.730ad137.jpg"
   },
   {
-    "revision": "347980ea5b425b39390f1b32df755ef4",
-    "url": "/terramia/static/media/icon-2.347980ea.png"
+    "revision": "e5a7586f90b8d996028eb9d19b560fe4",
+    "url": "/terramia/static/media/icon-2.e5a7586f.jpg"
   },
   {
-    "revision": "76de64040f89e1455c6c9a56300bdbb4",
-    "url": "/terramia/static/media/icon-3.76de6404.png"
+    "revision": "31e6d8ce10828ffbbe13eaa987db3b92",
+    "url": "/terramia/static/media/icon-3.31e6d8ce.jpg"
   },
   {
-    "revision": "4d39948309d85de71a0c0bf245193512",
-    "url": "/terramia/static/media/icon-4.4d399483.png"
+    "revision": "fde73fae957c1439a7b69338b326c976",
+    "url": "/terramia/static/media/icon-4.fde73fae.jpg"
   },
   {
-    "revision": "e99a5a098713b2a396060fa3b643d426",
-    "url": "/terramia/static/media/icon-kora.e99a5a09.jpg"
+    "revision": "19e90c7f2a7a007e9c2211c91b6788f3",
+    "url": "/terramia/static/media/icon-5.19e90c7f.jpg"
   },
   {
-    "revision": "d63c8a0ecc98185ca26da9536b6b1f95",
-    "url": "/terramia/static/media/icon-korene.d63c8a0e.jpeg"
+    "revision": "ff9ceac675f6c683ffac896af05eaf3e",
+    "url": "/terramia/static/media/icon-blue.ff9ceac6.png"
+  },
+  {
+    "revision": "9cb7ed80244397f039d64e2ecc355975",
+    "url": "/terramia/static/media/icon-purple.9cb7ed80.png"
+  },
+  {
+    "revision": "06337b31bb55f2e736b98aa397d31607",
+    "url": "/terramia/static/media/icon-red.06337b31.png"
   },
   {
     "revision": "4607e31b8597a46405801ac04216e301",
@@ -178,5 +186,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "38f6036ceee7959e0a9d835a7bde2136",
     "url": "/terramia/static/media/skvrna-3.38f6036c.png"
+  },
+  {
+    "revision": "8e6e1679a0eb59bb87e8bcfd3f2b4154",
+    "url": "/terramia/static/media/top12.8e6e1679.png"
   }
 ]);
