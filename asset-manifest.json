@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/terramia/static/css/main.aa0dc762.chunk.css",
-    "main.js": "/terramia/static/js/main.9caedc69.chunk.js",
-    "main.js.map": "/terramia/static/js/main.9caedc69.chunk.js.map",
+    "main.css": "/terramia/static/css/main.df5d7696.chunk.css",
+    "main.js": "/terramia/static/js/main.cb62b1ab.chunk.js",
+    "main.js.map": "/terramia/static/js/main.cb62b1ab.chunk.js.map",
     "runtime-main.js": "/terramia/static/js/runtime-main.996e5ef2.js",
     "runtime-main.js.map": "/terramia/static/js/runtime-main.996e5ef2.js.map",
     "static/js/2.75c15b83.chunk.js": "/terramia/static/js/2.75c15b83.chunk.js",
     "static/js/2.75c15b83.chunk.js.map": "/terramia/static/js/2.75c15b83.chunk.js.map",
     "index.html": "/terramia/index.html",
-    "precache-manifest.423e8a4b4fefdedb97b685a5dace0bc7.js": "/terramia/precache-manifest.423e8a4b4fefdedb97b685a5dace0bc7.js",
+    "precache-manifest.d20f298431f91ee5a84a637d2d948075.js": "/terramia/precache-manifest.d20f298431f91ee5a84a637d2d948075.js",
     "service-worker.js": "/terramia/service-worker.js",
-    "static/css/main.aa0dc762.chunk.css.map": "/terramia/static/css/main.aa0dc762.chunk.css.map",
+    "static/css/main.df5d7696.chunk.css.map": "/terramia/static/css/main.df5d7696.chunk.css.map",
     "static/js/2.75c15b83.chunk.js.LICENSE.txt": "/terramia/static/js/2.75c15b83.chunk.js.LICENSE.txt",
     "static/media/about-1.png": "/terramia/static/media/about-1.ef11e722.png",
     "static/media/about-2.png": "/terramia/static/media/about-2.b0a150bd.png",
@@ -22,10 +22,10 @@
     "static/media/herb.png": "/terramia/static/media/herb.34175633.png",
     "static/media/home-image-2.png": "/terramia/static/media/home-image-2.2b0e27b4.png",
     "static/media/home-image.jpg": "/terramia/static/media/home-image.fe10d3b8.jpg",
-    "static/media/icon-1.jpg": "/terramia/static/media/icon-1.730ad137.jpg",
+    "static/media/icon-1.jpg": "/terramia/static/media/icon-1.885da68c.jpg",
     "static/media/icon-2.jpg": "/terramia/static/media/icon-2.e5a7586f.jpg",
     "static/media/icon-3.jpg": "/terramia/static/media/icon-3.31e6d8ce.jpg",
-    "static/media/icon-4.jpg": "/terramia/static/media/icon-4.fde73fae.jpg",
+    "static/media/icon-4.jpg": "/terramia/static/media/icon-4.84c93fa1.jpg",
     "static/media/icon-5.jpg": "/terramia/static/media/icon-5.19e90c7f.jpg",
     "static/media/icon-blue.png": "/terramia/static/media/icon-blue.ff9ceac6.png",
     "static/media/icon-purple.png": "/terramia/static/media/icon-purple.9cb7ed80.png",
@@ -58,7 +58,7 @@
   "entrypoints": [
     "static/js/runtime-main.996e5ef2.js",
     "static/js/2.75c15b83.chunk.js",
-    "static/css/main.aa0dc762.chunk.css",
-    "static/js/main.9caedc69.chunk.js"
+    "static/css/main.df5d7696.chunk.css",
+    "static/js/main.cb62b1ab.chunk.js"
   ]
 }
