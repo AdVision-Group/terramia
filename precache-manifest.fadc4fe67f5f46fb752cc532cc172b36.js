@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "135fccbcf15cf658b9198ed88e492d55",
+    "revision": "d4bba687865f396b57f44713764dbb62",
     "url": "/terramia/index.html"
   },
   {
-    "revision": "e6fc9741a86dbc82799d",
-    "url": "/terramia/static/css/main.a4c8e167.chunk.css"
+    "revision": "f5786312b93e8a2953ad",
+    "url": "/terramia/static/css/main.31d3df59.chunk.css"
   },
   {
-    "revision": "e5e8bba4590b621638dc",
-    "url": "/terramia/static/js/2.d468e0f6.chunk.js"
+    "revision": "6af37c133a753a4828b4",
+    "url": "/terramia/static/js/2.aaa12c17.chunk.js"
   },
   {
     "revision": "7eb8d4d7445e3b2e10128cd6dc60d299",
-    "url": "/terramia/static/js/2.d468e0f6.chunk.js.LICENSE.txt"
+    "url": "/terramia/static/js/2.aaa12c17.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e6fc9741a86dbc82799d",
-    "url": "/terramia/static/js/main.67ad8e61.chunk.js"
+    "revision": "f5786312b93e8a2953ad",
+    "url": "/terramia/static/js/main.7806a7db.chunk.js"
   },
   {
     "revision": "d149b4c742d82dfc7e55",
@@ -116,6 +116,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/terramia/static/media/image-about.4607e31b.jpeg"
   },
   {
+    "revision": "aaa3fc584a6d93b17355e4f8b886a8c2",
+    "url": "/terramia/static/media/image-aromatherapy-1.aaa3fc58.png"
+  },
+  {
+    "revision": "ebfa55751976ec7541f8460de5c57dd8",
+    "url": "/terramia/static/media/image-aromatherapy-2.ebfa5575.png"
+  },
+  {
     "revision": "2323304e715e383a607055f54e7de26f",
     "url": "/terramia/static/media/image-aromatherapy.2323304e.jpeg"
   },
@@ -164,6 +172,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/terramia/static/media/item-4.adc6e46e.png"
   },
   {
+    "revision": "18d7d5aabccf76c6f418dac189af8860",
+    "url": "/terramia/static/media/lavender-1.18d7d5aa.jpg"
+  },
+  {
+    "revision": "a84a8916b31001884fda70d34450011d",
+    "url": "/terramia/static/media/lavender-2.a84a8916.jpg"
+  },
+  {
     "revision": "b08b4359302f0c466ff77e6599fd6634",
     "url": "/terramia/static/media/leaves.b08b4359.png"
   },
@@ -194,6 +210,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "629dd66c5c26c3361d171eee6dc0aab8",
     "url": "/terramia/static/media/oil-3.629dd66c.png"
+  },
+  {
+    "revision": "4b47d15a7ceaeca5e8f87231ccc6dca0",
+    "url": "/terramia/static/media/oil-landing-1.4b47d15a.png"
   },
   {
     "revision": "0c40c7c1fa58f7c862ef0e4c023727bc",

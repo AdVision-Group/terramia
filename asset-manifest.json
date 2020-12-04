@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/terramia/static/css/main.a4c8e167.chunk.css",
-    "main.js": "/terramia/static/js/main.67ad8e61.chunk.js",
-    "main.js.map": "/terramia/static/js/main.67ad8e61.chunk.js.map",
+    "main.css": "/terramia/static/css/main.31d3df59.chunk.css",
+    "main.js": "/terramia/static/js/main.7806a7db.chunk.js",
+    "main.js.map": "/terramia/static/js/main.7806a7db.chunk.js.map",
     "runtime-main.js": "/terramia/static/js/runtime-main.996e5ef2.js",
     "runtime-main.js.map": "/terramia/static/js/runtime-main.996e5ef2.js.map",
-    "static/js/2.d468e0f6.chunk.js": "/terramia/static/js/2.d468e0f6.chunk.js",
-    "static/js/2.d468e0f6.chunk.js.map": "/terramia/static/js/2.d468e0f6.chunk.js.map",
+    "static/js/2.aaa12c17.chunk.js": "/terramia/static/js/2.aaa12c17.chunk.js",
+    "static/js/2.aaa12c17.chunk.js.map": "/terramia/static/js/2.aaa12c17.chunk.js.map",
     "index.html": "/terramia/index.html",
-    "precache-manifest.64ba703bbeb0a462ef52fcc8c0a9c596.js": "/terramia/precache-manifest.64ba703bbeb0a462ef52fcc8c0a9c596.js",
+    "precache-manifest.fadc4fe67f5f46fb752cc532cc172b36.js": "/terramia/precache-manifest.fadc4fe67f5f46fb752cc532cc172b36.js",
     "service-worker.js": "/terramia/service-worker.js",
-    "static/css/main.a4c8e167.chunk.css.map": "/terramia/static/css/main.a4c8e167.chunk.css.map",
-    "static/js/2.d468e0f6.chunk.js.LICENSE.txt": "/terramia/static/js/2.d468e0f6.chunk.js.LICENSE.txt",
+    "static/css/main.31d3df59.chunk.css.map": "/terramia/static/css/main.31d3df59.chunk.css.map",
+    "static/js/2.aaa12c17.chunk.js.LICENSE.txt": "/terramia/static/js/2.aaa12c17.chunk.js.LICENSE.txt",
     "static/media/about-1.png": "/terramia/static/media/about-1.ef11e722.png",
     "static/media/about-2.png": "/terramia/static/media/about-2.b0a150bd.png",
     "static/media/about-3.png": "/terramia/static/media/about-3.e0a53cc8.png",
@@ -35,6 +35,8 @@
     "static/media/icon-purple.png": "/terramia/static/media/icon-purple.9cb7ed80.png",
     "static/media/icon-red.png": "/terramia/static/media/icon-red.06337b31.png",
     "static/media/image-about.jpeg": "/terramia/static/media/image-about.4607e31b.jpeg",
+    "static/media/image-aromatherapy-1.png": "/terramia/static/media/image-aromatherapy-1.aaa3fc58.png",
+    "static/media/image-aromatherapy-2.png": "/terramia/static/media/image-aromatherapy-2.ebfa5575.png",
     "static/media/image-aromatherapy.jpeg": "/terramia/static/media/image-aromatherapy.2323304e.jpeg",
     "static/media/image-blog.jpeg": "/terramia/static/media/image-blog.2412d0b8.jpeg",
     "static/media/image-business.jpeg": "/terramia/static/media/image-business.f0dca109.jpeg",
@@ -45,6 +47,8 @@
     "static/media/home.css": "/terramia/static/media/item-2.4fc13732.png",
     "static/media/item-3.png": "/terramia/static/media/item-3.3a12cb49.png",
     "static/media/item-4.png": "/terramia/static/media/item-4.adc6e46e.png",
+    "static/media/lavender-1.jpg": "/terramia/static/media/lavender-1.18d7d5aa.jpg",
+    "static/media/lavender-2.jpg": "/terramia/static/media/lavender-2.a84a8916.jpg",
     "static/media/leaves.png": "/terramia/static/media/leaves.b08b4359.png",
     "static/media/lemon.png": "/terramia/static/media/lemon.b17589da.png",
     "static/media/logo.png": "/terramia/static/media/logo.21fcd5bb.png",
@@ -53,6 +57,7 @@
     "static/media/oil-1.png": "/terramia/static/media/oil-1.e887766e.png",
     "static/media/oil-2.png": "/terramia/static/media/oil-2.59098c90.png",
     "static/media/oil-3.png": "/terramia/static/media/oil-3.629dd66c.png",
+    "static/media/oil-landing-1.png": "/terramia/static/media/oil-landing-1.4b47d15a.png",
     "static/media/roman-zacka.png": "/terramia/static/media/roman-zacka.0c40c7c1.png",
     "static/media/skvrna-1.png": "/terramia/static/media/skvrna-1.198bfeb1.png",
     "static/media/skvrna-2.png": "/terramia/static/media/skvrna-2.97562dcd.png",
@@ -61,8 +66,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.996e5ef2.js",
-    "static/js/2.d468e0f6.chunk.js",
-    "static/css/main.a4c8e167.chunk.css",
-    "static/js/main.67ad8e61.chunk.js"
+    "static/js/2.aaa12c17.chunk.js",
+    "static/css/main.31d3df59.chunk.css",
+    "static/js/main.7806a7db.chunk.js"
   ]
 }
