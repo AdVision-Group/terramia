@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/terramia/static/css/main.d115b6cd.chunk.css",
-    "main.js": "/terramia/static/js/main.a4fda2a5.chunk.js",
-    "main.js.map": "/terramia/static/js/main.a4fda2a5.chunk.js.map",
+    "main.css": "/terramia/static/css/main.fb8ee5ce.chunk.css",
+    "main.js": "/terramia/static/js/main.79c79d90.chunk.js",
+    "main.js.map": "/terramia/static/js/main.79c79d90.chunk.js.map",
     "runtime-main.js": "/terramia/static/js/runtime-main.996e5ef2.js",
     "runtime-main.js.map": "/terramia/static/js/runtime-main.996e5ef2.js.map",
     "static/css/2.3c515868.chunk.css": "/terramia/static/css/2.3c515868.chunk.css",
     "static/js/2.fa567c86.chunk.js": "/terramia/static/js/2.fa567c86.chunk.js",
     "static/js/2.fa567c86.chunk.js.map": "/terramia/static/js/2.fa567c86.chunk.js.map",
     "index.html": "/terramia/index.html",
-    "precache-manifest.948a6b38c1df2733bbfb540d6dad4cdb.js": "/terramia/precache-manifest.948a6b38c1df2733bbfb540d6dad4cdb.js",
+    "precache-manifest.ce6d8260fa052ce331f8e3d086229e3b.js": "/terramia/precache-manifest.ce6d8260fa052ce331f8e3d086229e3b.js",
     "service-worker.js": "/terramia/service-worker.js",
     "static/css/2.3c515868.chunk.css.map": "/terramia/static/css/2.3c515868.chunk.css.map",
-    "static/css/main.d115b6cd.chunk.css.map": "/terramia/static/css/main.d115b6cd.chunk.css.map",
+    "static/css/main.fb8ee5ce.chunk.css.map": "/terramia/static/css/main.fb8ee5ce.chunk.css.map",
     "static/js/2.fa567c86.chunk.js.LICENSE.txt": "/terramia/static/js/2.fa567c86.chunk.js.LICENSE.txt",
     "static/media/about-1.png": "/terramia/static/media/about-1.ef11e722.png",
     "static/media/about-2.png": "/terramia/static/media/about-2.b0a150bd.png",
@@ -54,7 +54,7 @@
     "static/media/lavender-2.jpg": "/terramia/static/media/lavender-2.a84a8916.jpg",
     "static/media/leaves.png": "/terramia/static/media/leaves.b08b4359.png",
     "static/media/lemon.png": "/terramia/static/media/lemon.b17589da.png",
-    "static/media/logo.png": "/terramia/static/media/logo.b827c921.png",
+    "static/media/logo.png": "/terramia/static/media/logo.c02d6493.png",
     "static/media/michaela-zackova.png": "/terramia/static/media/michaela-zackova.da724cd2.png",
     "static/media/obchodne-podmienky.pdf": "/terramia/static/media/obchodne-podmienky.a0a99921.pdf",
     "static/media/oil-1.png": "/terramia/static/media/oil-1.e887766e.png",
@@ -87,7 +87,7 @@
     "static/js/runtime-main.996e5ef2.js",
     "static/css/2.3c515868.chunk.css",
     "static/js/2.fa567c86.chunk.js",
-    "static/css/main.d115b6cd.chunk.css",
-    "static/js/main.a4fda2a5.chunk.js"
+    "static/css/main.fb8ee5ce.chunk.css",
+    "static/js/main.79c79d90.chunk.js"
   ]
 }
