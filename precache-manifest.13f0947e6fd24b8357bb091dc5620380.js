@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1da556a71568cc237d804616bfc9446d",
+    "revision": "d4cd8b306d565f9465dd6aa2f13bd191",
     "url": "/terramia/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/terramia/static/css/2.3c515868.chunk.css"
   },
   {
-    "revision": "b69a1929d1e0749da92f",
+    "revision": "7b5dba9ea21ca7420765",
     "url": "/terramia/static/css/main.535bd3ba.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/terramia/static/js/2.fa567c86.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b69a1929d1e0749da92f",
-    "url": "/terramia/static/js/main.884d91b7.chunk.js"
+    "revision": "7b5dba9ea21ca7420765",
+    "url": "/terramia/static/js/main.7d43b529.chunk.js"
   },
   {
     "revision": "d149b4c742d82dfc7e55",
