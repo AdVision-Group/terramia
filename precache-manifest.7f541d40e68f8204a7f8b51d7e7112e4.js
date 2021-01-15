@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b2a6dde9a4fc8c39ea56fb57b8bd8468",
+    "revision": "0da571d4cce992781e63e83fac8c1045",
     "url": "/terramia/index.html"
   },
   {
-    "revision": "ba1b4e77958b6aace4cc",
+    "revision": "c9954a2a1c0f5f6e45ab",
     "url": "/terramia/static/css/2.3c515868.chunk.css"
   },
   {
-    "revision": "02b458f662dda85e212e",
+    "revision": "be527f42fa2e2090cf72",
     "url": "/terramia/static/css/main.e4d90315.chunk.css"
   },
   {
-    "revision": "ba1b4e77958b6aace4cc",
-    "url": "/terramia/static/js/2.dada9d11.chunk.js"
+    "revision": "c9954a2a1c0f5f6e45ab",
+    "url": "/terramia/static/js/2.59dbe681.chunk.js"
   },
   {
     "revision": "2bfe1516a7b893f8b07a7ab522bfcaf9",
-    "url": "/terramia/static/js/2.dada9d11.chunk.js.LICENSE.txt"
+    "url": "/terramia/static/js/2.59dbe681.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "02b458f662dda85e212e",
-    "url": "/terramia/static/js/main.20b6a7d6.chunk.js"
+    "revision": "be527f42fa2e2090cf72",
+    "url": "/terramia/static/js/main.494cd6c5.chunk.js"
   },
   {
     "revision": "d149b4c742d82dfc7e55",
@@ -178,6 +178,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "adc6e46efadba70bd38d08a373321e3d",
     "url": "/terramia/static/media/item-4.adc6e46e.png"
+  },
+  {
+    "revision": "a3a337ec5fecd581efd3b74a7a46d015",
+    "url": "/terramia/static/media/landing-oil.a3a337ec.jpg"
   },
   {
     "revision": "18d7d5aabccf76c6f418dac189af8860",

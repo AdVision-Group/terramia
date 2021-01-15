@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/terramia/static/css/main.e4d90315.chunk.css",
-    "main.js": "/terramia/static/js/main.20b6a7d6.chunk.js",
-    "main.js.map": "/terramia/static/js/main.20b6a7d6.chunk.js.map",
+    "main.js": "/terramia/static/js/main.494cd6c5.chunk.js",
+    "main.js.map": "/terramia/static/js/main.494cd6c5.chunk.js.map",
     "runtime-main.js": "/terramia/static/js/runtime-main.996e5ef2.js",
     "runtime-main.js.map": "/terramia/static/js/runtime-main.996e5ef2.js.map",
     "static/css/2.3c515868.chunk.css": "/terramia/static/css/2.3c515868.chunk.css",
-    "static/js/2.dada9d11.chunk.js": "/terramia/static/js/2.dada9d11.chunk.js",
-    "static/js/2.dada9d11.chunk.js.map": "/terramia/static/js/2.dada9d11.chunk.js.map",
+    "static/js/2.59dbe681.chunk.js": "/terramia/static/js/2.59dbe681.chunk.js",
+    "static/js/2.59dbe681.chunk.js.map": "/terramia/static/js/2.59dbe681.chunk.js.map",
     "index.html": "/terramia/index.html",
-    "precache-manifest.d871252bf3ce11ecbd7f02254e7b1732.js": "/terramia/precache-manifest.d871252bf3ce11ecbd7f02254e7b1732.js",
+    "precache-manifest.7f541d40e68f8204a7f8b51d7e7112e4.js": "/terramia/precache-manifest.7f541d40e68f8204a7f8b51d7e7112e4.js",
     "service-worker.js": "/terramia/service-worker.js",
     "static/css/2.3c515868.chunk.css.map": "/terramia/static/css/2.3c515868.chunk.css.map",
     "static/css/main.e4d90315.chunk.css.map": "/terramia/static/css/main.e4d90315.chunk.css.map",
-    "static/js/2.dada9d11.chunk.js.LICENSE.txt": "/terramia/static/js/2.dada9d11.chunk.js.LICENSE.txt",
+    "static/js/2.59dbe681.chunk.js.LICENSE.txt": "/terramia/static/js/2.59dbe681.chunk.js.LICENSE.txt",
     "static/media/about-1.png": "/terramia/static/media/about-1.ef11e722.png",
     "static/media/about-2.png": "/terramia/static/media/about-2.b0a150bd.png",
     "static/media/about-3.png": "/terramia/static/media/about-3.e0a53cc8.png",
@@ -50,6 +50,7 @@
     "static/media/home.css": "/terramia/static/media/item-2.4fc13732.png",
     "static/media/item-3.png": "/terramia/static/media/item-3.3a12cb49.png",
     "static/media/item-4.png": "/terramia/static/media/item-4.adc6e46e.png",
+    "static/media/landing-oil.jpg": "/terramia/static/media/landing-oil.a3a337ec.jpg",
     "static/media/lavender-1.jpg": "/terramia/static/media/lavender-1.18d7d5aa.jpg",
     "static/media/lavender-2.jpg": "/terramia/static/media/lavender-2.a84a8916.jpg",
     "static/media/leaves.png": "/terramia/static/media/leaves.b08b4359.png",
@@ -86,8 +87,8 @@
   "entrypoints": [
     "static/js/runtime-main.996e5ef2.js",
     "static/css/2.3c515868.chunk.css",
-    "static/js/2.dada9d11.chunk.js",
+    "static/js/2.59dbe681.chunk.js",
     "static/css/main.e4d90315.chunk.css",
-    "static/js/main.20b6a7d6.chunk.js"
+    "static/js/main.494cd6c5.chunk.js"
   ]
 }
