@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" 
+xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" 
+xmlns:xhtml="http://www.w3.org/1999/xhtml" 
+xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" 
+xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" 
+xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://terramia.sk/</loc> </url>
+<url> <loc>https://terramia.sk/e-shop</loc> </url>
+<url> <loc>https://terramia.sk/aromavzdelavanie</loc> </url>
+<url> <loc>https://terramia.sk/podnikanie</loc> </url>
+<url> <loc>https://terramia.sk/novinky</loc> </url>
+<url> <loc>https://terramia.sk/o-nas</loc> </url>
+<url> <loc>https://terramia.sk/kontakt</loc> </url>
+<url> <loc>https://terramia.sk/kosik</loc> </url>
+<url> <loc>https://terramia.sk/fakturacne-udaje</loc> </url>
+<url> <loc>https://terramia.sk/platba</loc> </url>
+<url> <loc>https://terramia.sk/uspech</loc> </url>
+<url> <loc>https://terramia.sk/prihlasenie</loc> </url>
+<url> <loc>https://terramia.sk/registracia-vzorky-zadarmo</loc> </url>
+<url> <loc>https://terramia.sk/registracia-fakturacne-udaje</loc> </url>
+<url> <loc>https://terramia.sk/registracia-vytvorit-ucet</loc> </url>
+<url> <loc>https://terramia.sk/registracia-suhrn-objednavky</loc> </url>
+<url> <loc>https://terramia.sk/profil</loc> </url>
+</urlset>
