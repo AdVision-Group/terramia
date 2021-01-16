@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b0a4a8af136d200d5bd5eeaf89e2abfa",
+    "revision": "ab223604eac2da68162b83b599e0fc55",
     "url": "/index.html"
   },
   {
-    "revision": "c9954a2a1c0f5f6e45ab",
+    "revision": "47591f35f59b67f38c5a",
     "url": "/static/css/2.3c515868.chunk.css"
   },
   {
-    "revision": "58cc3f3edf058f96b0ae",
+    "revision": "bab73f33948606cdfdf7",
     "url": "/static/css/main.ca845c51.chunk.css"
   },
   {
-    "revision": "c9954a2a1c0f5f6e45ab",
-    "url": "/static/js/2.59dbe681.chunk.js"
+    "revision": "47591f35f59b67f38c5a",
+    "url": "/static/js/2.5341709f.chunk.js"
   },
   {
     "revision": "2bfe1516a7b893f8b07a7ab522bfcaf9",
-    "url": "/static/js/2.59dbe681.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.5341709f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "58cc3f3edf058f96b0ae",
-    "url": "/static/js/main.a7a1b7ae.chunk.js"
+    "revision": "bab73f33948606cdfdf7",
+    "url": "/static/js/main.2de7cb48.chunk.js"
   },
   {
     "revision": "40e2eb9236a2e7cc9545",
@@ -30,22 +30,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ef11e722e2d81f28f5e5c5d5b7f91b4f",
     "url": "/static/media/about-1.ef11e722.png"
-  },
-  {
-    "revision": "b0a150bd56faba764bdbebb3ea160b5e",
-    "url": "/static/media/about-2.b0a150bd.png"
-  },
-  {
-    "revision": "e0a53cc84f7e0b659a7e9a7d79c4bfad",
-    "url": "/static/media/about-3.e0a53cc8.png"
-  },
-  {
-    "revision": "9fb135f4f3c7f26c553c4f6bc9f90821",
-    "url": "/static/media/business-1.9fb135f4.png"
-  },
-  {
-    "revision": "31d962e28a698c43ecf349bf3700f40c",
-    "url": "/static/media/business-2.31d962e2.png"
   },
   {
     "revision": "75646aa49b339913e6bc93a82df4125e",
@@ -74,10 +58,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "34175633a6f926d9777cb27dd4f667a1",
     "url": "/static/media/herb.34175633.png"
-  },
-  {
-    "revision": "2b0e27b4ceb07c8abd14fadde45ea264",
-    "url": "/static/media/home-image-2.2b0e27b4.png"
   },
   {
     "revision": "fe10d3b8167d2cbdac62104da5a88d73",
@@ -184,14 +164,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/landing-oil.a3a337ec.jpg"
   },
   {
-    "revision": "18d7d5aabccf76c6f418dac189af8860",
-    "url": "/static/media/lavender-1.18d7d5aa.jpg"
-  },
-  {
-    "revision": "a84a8916b31001884fda70d34450011d",
-    "url": "/static/media/lavender-2.a84a8916.jpg"
-  },
-  {
     "revision": "b08b4359302f0c466ff77e6599fd6634",
     "url": "/static/media/leaves.b08b4359.png"
   },
@@ -204,44 +176,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/logo.c02d6493.png"
   },
   {
-    "revision": "da724cd2d0cfd6fd3349e47ea410c1b8",
-    "url": "/static/media/michaela-zackova.da724cd2.png"
-  },
-  {
     "revision": "a0a999218857e295f6fe76369db07064",
     "url": "/static/media/obchodne-podmienky.a0a99921.pdf"
-  },
-  {
-    "revision": "e887766eb6b5a9d16e655701ab9adb85",
-    "url": "/static/media/oil-1.e887766e.png"
-  },
-  {
-    "revision": "59098c9039e12ddbdb84b4f9d16adcc0",
-    "url": "/static/media/oil-2.59098c90.png"
-  },
-  {
-    "revision": "629dd66c5c26c3361d171eee6dc0aab8",
-    "url": "/static/media/oil-3.629dd66c.png"
-  },
-  {
-    "revision": "4b47d15a7ceaeca5e8f87231ccc6dca0",
-    "url": "/static/media/oil-landing-1.4b47d15a.png"
-  },
-  {
-    "revision": "0c40c7c1fa58f7c862ef0e4c023727bc",
-    "url": "/static/media/roman-zacka.0c40c7c1.png"
-  },
-  {
-    "revision": "198bfeb135c37554c287e3fabaf28d3d",
-    "url": "/static/media/skvrna-1.198bfeb1.png"
-  },
-  {
-    "revision": "97562dcdb62f2552064da77ef53ae6c3",
-    "url": "/static/media/skvrna-2.97562dcd.png"
-  },
-  {
-    "revision": "38f6036ceee7959e0a9d835a7bde2136",
-    "url": "/static/media/skvrna-3.38f6036c.png"
   },
   {
     "revision": "50a76e762194d8cbe0cd853201f7977e",
